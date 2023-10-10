@@ -1,0 +1,4 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"2","Error in `?`(data, data) : 
+  no documentation of type ‘data’ and topic ‘data’ (or error in processing help)
+"
